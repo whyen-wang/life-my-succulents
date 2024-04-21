@@ -1,3 +1,10 @@
 site_name: My Succulents
+nav:
+  - Home: index.md
+  - Genus:
+    - Haworthia: Haworthia.md
+    - Lithops: Lithops.md
 theme:
   name: material
+  features:
+    - navigation.tabs
