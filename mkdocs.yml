@@ -2,8 +2,9 @@ site_name: My Succulents
 nav:
   - Home: index.md
   - Genus:
-    - Haworthia: Haworthia.md
-    - Lithops: Lithops.md
+    - Haworthia: Genus/Haworthia.md
+    - Lithops: Genus/Lithops.md
+  - Growing Medium: 
 theme:
   name: material
   features:
