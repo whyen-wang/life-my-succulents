@@ -5,13 +5,14 @@
 
 ### Varieties
 * Haworthia cooperi var. dielsiana (帝玉露)
-  ![帝玉露](./images/Haworthia/cooperi/dielsiana.png)
+    - ![帝玉露](../images/Haworthia/cooperi/dielsiana.png){: style="height:200px;width:200px"}
+
 * Haworthia cooperi var. picturata (纓水晶)
-  ![纓水晶](./images/Haworthia/cooperi/picturata.png)
+    - ![纓水晶](../images/Haworthia/cooperi/picturata.png){: style="height:200px;width:200px"}
 * Haworthia cooperi var. truncata (姬玉露)
-  ![姬玉露](./images/Haworthia/cooperi/truncata.png)
+    - ![姬玉露](../images/Haworthia/cooperi/truncata.png){: style="height:200px;width:200px"}
 * Haworthia cooperi var. venusta (毛玉露)
-  ![毛玉露](./images/Haworthia/cooperi/venusta.png)
+    - ![毛玉露](../images/Haworthia/cooperi/venusta.png){: style="height:200px;width:200px"}
 * ... total 13 varieties
 
 ### Environment (Taiwan)

@@ -4,7 +4,10 @@ nav:
   - Genus:
     - Haworthia: Genus/Haworthia.md
     - Lithops: Genus/Lithops.md
+  - Growing Medium: growing_medium.md
 theme:
   name: material
   features:
     - navigation.tabs
+markdown_extensions:
+- attr_list
