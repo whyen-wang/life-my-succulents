@@ -4,7 +4,6 @@ nav:
   - Genus:
     - Haworthia: Genus/Haworthia.md
     - Lithops: Genus/Lithops.md
-  - Growing Medium: 
 theme:
   name: material
   features:
